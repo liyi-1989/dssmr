@@ -1,0 +1,17 @@
+Package: dssmr
+Type: Package
+Title: Double Structured Sparse Multi-task Regression
+Version: 0.1.0
+Date: 2018-04-21
+Author: Yi Li, Adam (Aidong) Ding
+Maintainer: Yi Li <liyi.1989@gmail.com>
+Description: This package is about the implementation of the Double Structured Sparse Multi-task Regression (DSSMR) model.
+License: MIT + file LICENSE
+Depends: R (>= 2.10.0)
+Imports: Matrix
+Suggests: knitr,
+    rmarkdown
+Encoding: UTF-8
+LazyData: true
+VignetteBuilder: knitr
+RoxygenNote: 6.0.1
